@@ -1,5 +1,6 @@
 Feature: Login as different users
 
+  @hisham
   Scenario: Login as a driver user
     Given the user is on the login page
     When user logs in using "user11" and "UserUser123"

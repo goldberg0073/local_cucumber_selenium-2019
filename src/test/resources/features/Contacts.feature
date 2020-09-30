@@ -1,6 +1,7 @@
+@smoke
 Feature: Contacts page
 
-
+    @pageNumber
   Scenario: Default page number
     Given a driver is logged in
     When the user goes to "Customers" "Contacts"

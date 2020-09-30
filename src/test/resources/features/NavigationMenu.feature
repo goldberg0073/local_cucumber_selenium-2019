@@ -1,4 +1,4 @@
-@nav_menu
+@nav_menu @smoke
 Feature: Navigation menu
 
 

@@ -1,3 +1,4 @@
+@smoke
 Feature: Login as different user types
 
   # WARM UP : implement the following scenarios
